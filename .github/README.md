@@ -122,7 +122,13 @@
 > ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ᴀʀᴇ ɴᴏᴛ ᴍᴀɴᴅᴀᴛᴏʀʏ, ʏᴏᴜ ᴄᴀɴ ʟᴇᴀᴠᴇ ᴛʜᴇᴍ ʙʟᴀɴᴋ ᴛᴏᴏ. 
     
 ## Heroku Deployment ❤️
-The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
+👑Official Account🖤
+💟Wish Me On 25 July 🎂
+⚡My Life My Rules💪
+🎶Music ka Diwana💥
+🕉️Mahadev Bhakt🕉️
+♍I’m not Rich ßut I’m Royal 👑
+༒︎Iɴsᴛᴀɢʀᴀᴍ ɪᴅ ༒︎k_i_n_g_o_f_d_e_v_i_l_s_0_0_7 ☠︎︎).
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rajpomane/tabahibot)
 
