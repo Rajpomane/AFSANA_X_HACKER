@@ -1,7 +1,7 @@
 {
-    "name": "Alexa Music Bot",
-    "description": "Alexa Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/798b7275e58d09ac6b095.jpg",
+    "name": "✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑",
+    "description": "RAJPUT SARKAR Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
+    "logo": "https://graph.org/file/4ece9db78eea7a851a77e.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -24,7 +24,7 @@
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
-        "description": "If you want your assistant to leave all chats automatically after some time.",
+        "description": "bhenchot ja raha hu me Gand marawo .",
         "value": "True",
         "required": true
       },
@@ -40,12 +40,12 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "乛𝘼𝙇𝙀𝙓𝘼🕊⃝🦋⁪⁬",
+        "value": "✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑⁪⁬",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5303133436",
+        "value": "5447310526",
         "required": true
       },
       "STRING_SESSION": {
@@ -55,12 +55,12 @@
       },
       "PING_IMG_URL": {
         "description": "The pic which will be shown when you give the /ping cmd to the bot.",
-        "value": "",
+        "value": "https://graph.org/file/4ece9db78eea7a851a77e.jpg",
         "required": false
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "",
+        "value": "https://telegra.ph/file/bafe41175936b5ff85c40.jpg",
         "required": false
       },
       "HEROKU_API_KEY": {
@@ -74,13 +74,13 @@
         "required": false
       },
       "LOG_GROUP_ID": {
-        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
+        "description": "bsdk ek group bana awr bot add kar ke use admin bana awr assistant ko bhi group me add kar dena awr chinal ki Id daal ke gand mat Marva lena.",
         "value": "",
         "required": true
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/TheTeamAlexa/AlexaMusic",
+        "value": "https://github.com/Rajpomane/tabahibot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
