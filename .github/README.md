@@ -76,7 +76,7 @@
 - `/gban` - gban user
 
 
-### Owner Only 🕺
+### Owner Only 🥀🖤
 - `/broadcast` - send a broadcast message from the bot
 - `/block` - block people for using your bot
 - `/unblock` - unblock people you blocked for using your bot
@@ -117,7 +117,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-## Heroku Deployment ❤️
+## 🖤💫Hᴇʀᴏᴋᴜ ᴅɪᴘʟᴏʏ💫🖤
 👑Official Account🖤
 💟Wish Me On 25 July 🎂
 ⚡My Life My Rules💪
