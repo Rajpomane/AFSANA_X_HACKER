@@ -1,8 +1,8 @@
 <h1 align="center"><b>✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑 </b></h1>
 
-<h4 align="center">⃝😈🇰⃪𝙾𝙸✨⃝🇹⃪𝙾𝙳𝙴🥵🇩⃪𝙸𝙻💯 ⃝🇲𝙴𝚁𝙰😈⃝🇾⃪𝙴 ⃝🤬⃝🇰⃪𝙸𝚂𝙸𝙺𝙴🔥⃝🇦⃪𝚄𝙺𝙰𝚃🔥⃝🇳⃪𝙷𝙸<br> ... Written With Python and Telethon...</h4>
+<br> ... 🔥Koi tode dil mera ye kisi ki aukat nahi 🔥...</h4>
 
-<p align="center"><a href="https://t.me/attiudedp"><img src="https://graph.org/file/e974b7bd765bea6734073.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/attiudedp"><img src="https://graph.org/file/4ece9db78eea7a851a77e.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://app.codacy.com/manual/TheTeamAlexa/AlexaMusic/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
@@ -63,6 +63,11 @@
 - `/auth` - authorized people to access the admin commands
 - `/deauth` - deauthorized people to access the admin commands
 - `/control` - open the music player control panel
+
+<p align="center">
+  <img src="https://graph.org/file/68bc9a33b086d994d82c6.jpg">
+</p>
+
 
 ### Sudo User ❣️
 - `/stats` - see the bot statistic
