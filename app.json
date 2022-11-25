@@ -1,5 +1,5 @@
 {
-    "name": "✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑",
+    "name": "✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑.",
     "description": "RAJPUT SARKAR Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://graph.org/file/4ece9db78eea7a851a77e.jpg",
     "keywords": [
@@ -24,7 +24,7 @@
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
-        "description": "bhenchot ja raha hu me Gand marawo .",
+        "description": "bhenchot ja raha hu me Gand marawo.",
         "value": "True",
         "required": true
       },
@@ -40,7 +40,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑⁪⁬",
+        "value": "✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑⁪⁬.",
         "required": true
       },
       "OWNER_ID": {
