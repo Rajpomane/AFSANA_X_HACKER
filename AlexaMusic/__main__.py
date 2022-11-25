@@ -2,10 +2,10 @@
 # Copyright (C) 2021-2022 by Alexa_Help@Github, < https://github.com/Jankarikiduniya >.
 # A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
 
-# Kanged By © @Dr_Asad_Ali
-# Rocks © @Shayri_Music_Lovers
-# Owner Asad Ali
-# Harshit Sharma
+# Kanged By © @BATTERY_ABOUT_TO_DAI_ERROR
+# Rocks © @attiudedp
+# Owner hacker heart 
+# ✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑
 # All rights reserved. © Alisha © Alexa © Alexa
 
 
@@ -62,7 +62,7 @@ async def init():
     except:
         pass
     await Alexa.decorators()
-    LOGGER("AlexaMusic").info("Music Bot Started Successfully ❣️")
+    LOGGER("AlexaMusic").info("AARHA HU BHENCHOT")
     await idle()
 
 
