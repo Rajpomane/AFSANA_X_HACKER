@@ -68,7 +68,7 @@ async def gen_thumb(videoid):
         youtube = Image.open(f"cache/thumb{videoid}.png")
         image1 = changeImageSize(1280, 720, youtube)
         image2 = image1.convert("RGBA")
-        background = image2.filter(filter=ImageFilter.BoxBlur(50))
+        background = image2.filter(filter=ImageFilter.Boxpink(50))
         enhancer = ImageEnhance.Brightness(background)
         background = enhancer.enhance(0.9)
         Xcenter = youtube.width / 2
@@ -79,7 +79,7 @@ async def gen_thumb(videoid):
         y2 = Ycenter + 250
         logo = youtube.crop((x1, y1, x2, y2))
         logo.thumbnail((520, 520), Image.ANTIALIAS)
-        logo = ImageOps.expand(logo, border=17, fill="pink")
+        logo = ImageOps.expand(logo, border=25, fill="pink")
         background.paste(logo, (50, 100))
         draw = ImageDraw.Draw(background)
         font = ImageFont.truetype("assets/font2.ttf", 40)
@@ -89,14 +89,14 @@ async def gen_thumb(videoid):
         para = textwrap.wrap(title, width=32)
         j = 0
         draw.text(
-            (6, 6), f"Powered By:- © ALEXA & ® ROCKS", fill="Yellow", font=name_font
+            (6, 6), f"Powered By:- © POISON & ® FIDAA", fill="Pink", font=name_font
         )
         draw.text(
             (600, 150),
-            f"By Alexa",
-            fill="white",
+            f"By POISON",
+            fill="pink",
             stroke_width=2,
-            stroke_fill="yellow",
+            stroke_fill="pink",
             font=font2,
         )
         for line in para:
@@ -105,9 +105,9 @@ async def gen_thumb(videoid):
                 draw.text(
                     (600, 340),
                     f"{line}",
-                    fill="white",
+                    fill="black",
                     stroke_width=1,
-                    stroke_fill="white",
+                    stroke_fill="pink",
                     font=font,
                 )
             if j == 0:
@@ -115,9 +115,9 @@ async def gen_thumb(videoid):
                 draw.text(
                     (600, 280),
                     f"{line}",
-                    fill="white",
+                    fill="pink",
                     stroke_width=1,
-                    stroke_fill="white",
+                    stroke_fill="black",
                     font=font,
                 )
 
@@ -126,7 +126,7 @@ async def gen_thumb(videoid):
             f"Views : {views[:23]}",
             fill="white",
             stroke_width=1,
-            stroke_fill="white",
+            stroke_fill="pink",
             font=font,
         )
         draw.text(
@@ -134,15 +134,15 @@ async def gen_thumb(videoid):
             f"Duration : {duration[:23]} Mins",
             fill="white",
             stroke_width=1,
-            stroke_fill="white",
+            stroke_fill="pink",
             font=font,
         )
         draw.text(
             (600, 550),
-            f"Owner : Dr Asad Ali",
-            fill="white",
+            f"Owner : dengerous poison",
+            fill="pink",
             stroke_width=1,
-            stroke_fill="white",
+            stroke_fill="pink",
             font=font,
         )
         try:
