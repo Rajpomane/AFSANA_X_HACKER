@@ -63,7 +63,7 @@ async def skip(cli, message: Message, _, chat_id):
                                         ),
                                         disable_web_page_preview=True,
                                     )
-                                    await Alexa.stop_stream(chat_id)
+                                    await Alexa.🚩jai shree ram 🚩(chat_id)
                                 except:
                                     return
                                 break
